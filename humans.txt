@@ -1,0 +1,17 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+ Developer: Brandi Cameron
+ Contact: hello@brandicameron.com
+
+# THANKS
+
+Stack Overflow
+YouTube, particularly Dev Ed, Traversy Media and Steve Griffith
+
+# TECHNOLOGY COLOPHON
+
+CSS3, HTML5, JavaScript
+Apache Server Configs, Modernizr, Normalize.css
