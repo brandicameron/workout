@@ -6,7 +6,16 @@ function displayTime() {
 	});
 }
 
-// Updates the time
+// Update the time
 window.onload = function () {
 	setInterval(displayTime, 1000);
 };
+
+
+function closePopUp() {
+	let popup = document.querySelector('.popup');
+	popup.style.display = 'none';
+}
+
+let closeBtn = document.querySelector('.close-btn');
+closeBtn.addEventListener('click', closePopUp);
